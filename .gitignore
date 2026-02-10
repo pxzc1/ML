@@ -1,2 +1,5 @@
 # Python Virtual Environments
 env/
+
+# VSCode .json files
+.vscode/
