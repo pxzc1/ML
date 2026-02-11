@@ -1,5 +1,5 @@
 ## Workflow
-- `cd Documents/ML` (from /home/phattaraphan [~])
+- `cd Documents/ML` (from /home/phattaraphan `[~]`)
 - `nix develop --impure`
 - `code .`
 
