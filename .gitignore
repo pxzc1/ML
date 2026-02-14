@@ -3,3 +3,7 @@ env/
 
 # VSCode .json files
 .vscode/
+
+# images example or any samples
+.sources/
+.example/
