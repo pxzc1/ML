@@ -5,5 +5,8 @@ env/
 .vscode/
 
 # images example or any samples
-.sources/
-.example/
+sources/
+example/
+*.jpg
+*.png
+*.webp
